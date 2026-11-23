@@ -49,7 +49,7 @@ An image classification project using CNN and MobileNetV2 to classify different 
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/sayumi-fonseka-3332b63b1
 
-- GitHub: 
+- GitHub: https://github.com/Sayumi1026
 
 ---
 
