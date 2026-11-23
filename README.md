@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sayumi Fonseka
 
-<!--
-**Sayumi1026/sayumi1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I'm a third-year Data Science undergraduate at Sri Lanka Institute of Information Technology (SLIIT), passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
 
-Here are some ideas to get you started:
+I enjoy exploring data, building machine learning models, and developing solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate in Data Science at SLIIT
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Exploring Data Analytics and Statistical Modelling
+- 🌱 Continuously learning and improving my technical skills
+
+### 💻 Technical Skills
+
+**Programming Languages**
+- Python
+- R
+- SQL
+- Java
+
+**Data Science & Machine Learning**
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+
+**Tools & Technologies**
+- Jupyter Notebook
+- Google Colab
+- GitHub
+- Power BI
+
+### 🚀 Featured Projects
+
+**Waste Classification Using Deep Learning**
+
+An image classification project using CNN and MobileNetV2 to classify different types of waste.
+
+**Technologies:** Python, TensorFlow, Keras, MobileNetV2
+
+### 🎯 Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Computer Vision
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/sayumi-fonseka-3332b63b1
+
+- GitHub: 
+
+---
+
+⭐ Thanks for visiting my profile!
