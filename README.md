@@ -39,6 +39,14 @@ An image classification project using CNN and MobileNetV2 to classify different 
 
 **Technologies:** Python, TensorFlow, Keras, MobileNetV2
 
+**UniSphere - Campus Services Mobile Application**
+
+Contributed to the development of a full-stack student community web application integrating event coordination, housing, study groups, tutoring, market place, and lost & found features.
+
+**Intelligent Vendor Management System - IVMS**
+
+Developed an intelligent Inventory and supplier management solution incorporating AI-driven solutions. 
+
 ### 🎯 Areas of Interest
 - Artificial Intelligence
 - Machine Learning
